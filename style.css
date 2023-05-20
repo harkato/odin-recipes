@@ -1,0 +1,22 @@
+body {
+    font-family: 'SourceSansPro', Helvetica, sans-serif;
+    background-color: #b2e7f7;
+}
+.title {
+    text-align: center;
+    margin-top: 10vh;
+    font-family: 'SourceSansPro', Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.list {
+    margin-left: 10 px;
+    color:blueviolet;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
