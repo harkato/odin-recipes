@@ -1,22 +1,45 @@
 body {
     font-family: 'SourceSansPro', Helvetica, sans-serif;
-    background-color: #b2e7f7;
+    background-color: #eae0d5;
+    color: #0a0908;
 }
-.title {
+.title,
+h1,
+h3 {
     text-align: center;
+    width: 500px;
+    margin: auto;
+    border-style: dashed;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: #5e503f;
     margin-top: 10vh;
     font-family: 'SourceSansPro', Helvetica, sans-serif;
     font-weight: bold;
     font-size: 36px;
+    background-color: #c6ac8f;
 }
 
+p,
+img {
+    margin: 20px;
+    text-align: center;
+}
+
+p,
 .list {
-    margin-left: 10 px;
-    color:blueviolet;
+    background-color: #c6ac8f;
+    width: 20em;
+    margin: 40px auto;
+    color: #5e503f;
     font-size: 22px;
 }
 
+li {
+    margin: 1em 2em;
+    padding: 1em 0em;
+}
 a {
     text-decoration: none;
-    color: blueviolet;
+    color: #0a0908;
 }
